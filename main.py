@@ -1,10 +1,8 @@
 
-def multiply(a, b):
-    return a * b
+# Addition
 
-print(multiply(3, 4))
+# Multiplication
 
-def sum(a,b):
-    return a + b;
-print(sum(1,2))
+# Division
+
 
